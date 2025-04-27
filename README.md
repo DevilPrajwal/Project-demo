@@ -1,4 +1,4 @@
 # Project-demo
 Demo repository
 <br>
-Author - Prajwal Belkhode
+Author - Prajwal Madan Belkhode
